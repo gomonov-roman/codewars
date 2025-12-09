@@ -1,0 +1,6 @@
+function removeChar(str){
+ if (str.lentgh === 2) {
+   }
+   return str.slice(1, -1);
+ 
+};
