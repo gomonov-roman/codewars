@@ -1,0 +1,4 @@
+function perimeterSequence(a,n) {
+   // n >= 1, a >= 1
+  return 4 * a * n;
+}
